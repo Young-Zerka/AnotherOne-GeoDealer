@@ -1,7 +1,7 @@
 # GeoDealer
 
 GeoDealer is a Python application for retrieving information about phone numbers, including location and service provider details.
-<br>
+<br><br>
 <img src="image.png">
 <br>
 ## Prerequisites
