@@ -1,0 +1,4 @@
+opencage==1.2.2
+phonenumbers==8.12.26
+tkintermapview==0.2.3
+json==2.0.9
